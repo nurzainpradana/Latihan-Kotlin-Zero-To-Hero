@@ -10,4 +10,7 @@ fun main(){
     println(name)
 
     // Val -> Immutable -> Variabel yang nilainya tidak bisa diubah
+    val cardId = 23215123124
+    // cardId = 242376547435 //Compilation ERROR
+    print(cardId)
 }
