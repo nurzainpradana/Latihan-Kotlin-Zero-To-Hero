@@ -1,6 +1,6 @@
 fun main(){
     // Deklarasi variabel
-    // Var -> Muttable -> Datanya bisa berubah ubah
+    // Var -> Muttable -> Variabel yang nilainya bisa berubah
     var name = "Zain"
 
     // Mengganti value variable
@@ -8,4 +8,6 @@ fun main(){
 
     //Mencetak Variable
     println(name)
+
+    // Val -> Immutable -> Variabel yang nilainya tidak bisa diubah
 }
